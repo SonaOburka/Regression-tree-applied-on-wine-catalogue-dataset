@@ -1,10 +1,15 @@
 # Regression Tree - Wine Catalogue Dataset 
 ## R programming language
-## LaTex formatting
-Unicorn University: Data Analysis and Their Visualization Course, Winter Semester 20023
+## LaTEX formatting
+Article made in LaTEX - "Data Analysis and Their Visualization", Unicorn University, Winter 2022/2023
+
+Attached:
+Article: **pdf**
+R code: **R**
+CSV file: **Wine Catalogue Dataset** - original has over 320.000 records - due to its extensive size the sample of only 120.000 records was uploaded in GitHub
 
 Content:
-- Large dataset cleaning -  Wine Catalogue Dataset - over 320.000 records - due to its extensive size the sample of 120.000 records was uploaded in GitHub
+- Large dataset cleaning 
 - Regression tree analysis.
 
 The regression tree variables:
