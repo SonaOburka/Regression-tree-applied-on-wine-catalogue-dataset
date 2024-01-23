@@ -1,7 +1,7 @@
 # Regression Tree - Wine Catalogue Dataset 
 ## R programming language
-## LaTEX formatting
-Article made in LaTEX - "Data Analysis and Their Visualization", Unicorn University, Winter 2022/2023
+## LaTeX formatting
+Article made in LaTeX - "Data Analysis and Their Visualization", Unicorn University, Winter 2022/2023
 
 Attached:
 Article: **pdf**
